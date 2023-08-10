@@ -1,4 +1,6 @@
-public class Productos{
+namespace backend.Entidades
+public class Productos : Common
+{
     public int id {get; set;}
     public sting Nombre {get; set;}
     public int Id_Categoria {get; set;}
