@@ -1,0 +1,5 @@
+public class Productos{
+    public int id {get; set;}
+    public sting Nombre {get; set;}
+    public int Id_Categoria {get; set;}
+}
